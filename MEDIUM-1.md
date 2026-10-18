@@ -296,7 +296,6 @@ int main() {
 ```
 
 **运行截图**
-
 ![alt text](run_n_queens-1.png)
 
 # 模块五：管道穿梭 —— 自动化寻路
